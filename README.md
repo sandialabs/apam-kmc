@@ -1,4 +1,4 @@
-A python package for predicting the kinetics of precursor adsorption on the silicon(100)-2x1 surface.
+A python package for predicting the kinetics of precursor adsorption and dissociation on the silicon(100)-2x1 surface.
 This package has been developed largely for the purpose of atomic precision doping purposes but can be adapted for any surface of interest.
 
 Python2 and KMClib are required prerequisites.
