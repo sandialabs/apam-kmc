@@ -15,6 +15,6 @@ Phosphine: Reactions from https://doi.org/10.1063/1.4939124. KMC replicates resu
 
 Aluminum Trichloride: Reactions from https://doi.org/10.1021/acs.jpcc.1c00691.
 
-Boron Trichloride: Coming soon with paper on reaction!
+Boron Trichloride: Reactions from https://arxiv.org/abs/2201.11682
 
 For help/questions contact me: qcampbe@sandia.gov
