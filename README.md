@@ -11,7 +11,8 @@ Supported Precursor Molecules:
 
 Diborane: Reactions from https://doi.org/10.1021/acs.jpcc.0c08919.
 
-Phosphine: Reactions from https://doi.org/10.1063/1.4939124. KMC replicates results found in https://arxiv.org/abs/2105.12074
+Phosphine: Reactions from https://doi.org/10.1063/1.4939124. KMC replicates results found in https://arxiv.org/abs/2105.12074 
+Cross-silicon dimer row reactions from Appendix A of https://arxiv.org/abs/2207.10631 are now included in the nm patches folder.
 
 Aluminum Trichloride: Reactions from https://doi.org/10.1021/acs.jpcc.1c00691.
 
